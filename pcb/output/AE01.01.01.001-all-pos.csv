@@ -1,0 +1,15 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,100n,C_0805_2012Metric,40.386,22.098,90,top
+C2,100pF,C_0805_2012Metric,33.528,22.098,90,top
+C3,10nF,C_0805_2012Metric,48.514,22.098,270,top
+FID1,Fiducial,Fiducial_Modern_CopperTop,62.23,43.18,0,top
+FID2,Fiducial,Fiducial_Modern_CopperTop,6.35,49.53,0,top
+FID3,Fiducial,Fiducial_Modern_CopperTop,21.59,3.81,0,top
+R1,0.1,R_2512_6332Metric,16.51,22.098,90,top
+R2,0.1,R_2512_6332Metric,22.352,22.098,90,top
+R3,10K,R_0805_2012Metric,27.178,25.146,0,top
+R4,0R,R_0805_2012Metric,27.178,19.05,0,top
+R5,100,R_0805_2012Metric,45.974,22.098,90,top
+R6,DNP,R_0805_2012Metric,34.29,19.05,0,top
+R7,DNP,R_0805_2012Metric,34.29,25.146,0,top
+U1,ZXCT1080E5TA,SOT-23-5,37.084,22.098,180,top
